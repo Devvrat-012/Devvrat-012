@@ -1,3 +1,20 @@
+# 👋 Hi, I'm Devvrat Maddheshiya
+
+### 💻 Full Stack Software Engineer | Building Notapex | React • Node.js • AWS
+
+📧 **Email me:** [devvrat.m12@gmail.com](mailto:devvrat.m12@gmail.com) for collaboration, projects, or anything tech-related. 🤝
+
+- 🔭 **I'm currently working on:** Building and improving [Notapex](https://notapex.com), an AI-powered platform for students and educators.
+- 🌱 **I'm currently learning:** Backend engineering, system design, AWS, and AI-powered application development.
+- 🚀 **I'm building:** Full-stack applications, serverless APIs, and AI-powered tools.
+- 🤝 **I'm looking to collaborate on:** Full-stack projects, AI products, and interesting startup ideas.
+- 🛠️ **Ask me about:** React, Next.js, Node.js, PostgreSQL, AWS Lambda, REST APIs, and WhatsApp Business API integrations.
+- 💼 **My experience:** Building production applications, integrating third-party APIs, and deploying applications on AWS.
+- 🎯 **My goal:** Build useful products, solve real-world problems, and keep growing as a software engineer.
+- ⚡ **Fun fact:** I enjoy turning ideas into working products and learning by building them.
+
+🔗 **Connect with me:** [LinkedIn](https://linkedin.com/in/devvrat-maddheshiya-210227189) | [GitHub](https://github.com/Devvrat-012) | [Notapex](https://notapex.com)
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devvrat_012)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devvrat-maddheshiya-210227189)
